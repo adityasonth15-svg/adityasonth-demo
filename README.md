@@ -1,4 +1,4 @@
 # adityasonth-demo
 This is my first Repository 
 <br>
-Author - Aditya sonth
+Author - Aditya_sonth
